@@ -1,0 +1,6 @@
+{
+  "name": "Aura Weather iOS",
+  "description": "An ultra-sleek iOS-inspired glassmorphism weather app with dynamic atmospheric visuals, hourly forecasts, 10-day outlook, interactive radar, and real-time conditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
